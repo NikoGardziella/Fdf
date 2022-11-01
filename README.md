@@ -8,10 +8,9 @@ a parameter to your program.
 ![alt text](https://github.com/NikoGardziella/Fdf/blob/main/Screen%20Shot%202022-10-26%20at%209.57.50.png?raw=true)
 
 
-##Compiling and running
+## Compiling and running
 
 Run make. An executable will compile. Currently only tested on OS X.
 
 Run it with ./fdf scene/[map].
-
 
